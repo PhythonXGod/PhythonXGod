@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phythonxgod&" alt="phythonxgod" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FpUp9Nb1czvHMY%2Fgiphy.gif&sp=1666977205T0e054f94c37244ea18dd297aadf14bc8be108f4d8d62ad3b102a6d5b422457e4">
+<img align="left" alt="Coding" width="400" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FpUp9Nb1czvHMY%2Fgiphy.gif&sp=1666977205T0e054f94c37244ea18dd297aadf14bc8be108f4d8d62ad3b102a6d5b422457e4">
